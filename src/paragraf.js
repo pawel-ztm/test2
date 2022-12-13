@@ -8,6 +8,7 @@ function paragraf() {
             <p>To jeszcze nie koniec, a ja też mam coś do powiedzienia</p>
             <p>Jeszcze jedna poprawka</p>
             <p>... a jest ok!</p>
+            <p>...</p>
         </div>
     )
 }
