@@ -17,7 +17,7 @@ function App() {
         >
           Naucz się React JS
         </a>
-        <p>Sprawdzenie skryptu</p>
+        <p>Sprawdzenie skryptu2.h</p>
       </header>
     </div>
   );
