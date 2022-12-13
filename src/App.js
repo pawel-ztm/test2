@@ -17,17 +17,6 @@ function App() {
         >
           Naucz się React JS
         </a>
-<<<<<<< HEAD
-        <p>Test testowy i tyle</p>
-=======
-        <p>Sprawdzenie skryptu2.h</p>
-        <p>Drugi test skryptu2.h</p>
-        <p>Trzeci test skryptu2.h</p>
-        <p>Czwarty test skryptu2.h</p>
-        <p>Piąty test skryptu2.h</p>
-        <p>Szósty test skryptu2.h</p>
-        <p>Siódmy test ./skryptu2.h</p>
->>>>>>> origin/master
       </header>
     </div>
   );
