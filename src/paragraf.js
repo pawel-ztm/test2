@@ -2,7 +2,10 @@ import React from 'react'
 
 function paragraf() {
     return (
-        <div>Zmiana tekstu przez kogoś innego</div>
+        <div>
+        <p>Zmiana tekstu przez kogoś innego</p>
+        <p>Inna osoba dodała swoje trzy groszę!</p>
+        </div>
     )
 }
 
