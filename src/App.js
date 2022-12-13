@@ -18,7 +18,8 @@ function App() {
           Naucz się React JS
         </a>
         <p>Sprawdzenie skryptu2.h</p>
-        <p>Kolejny test skryptu2.h</p>
+        <p>Drugi test skryptu2.h</p>
+        <p>Trzeci test skryptu2.h</p>
       </header>
     </div>
   );
