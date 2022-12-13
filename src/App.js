@@ -22,6 +22,7 @@ function App() {
         <p>Trzeci test skryptu2.h</p>
         <p>Czwarty test skryptu2.h</p>
         <p>Piąty test skryptu2.h</p>
+        <p>Szósty test skryptu2.h</p>
       </header>
     </div>
   );
