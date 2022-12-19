@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          znapisano coś innego
+          jakiś tekst
         </a>
       </header>
     </div>
