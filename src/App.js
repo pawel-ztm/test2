@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Pusty projekt!
+          Pusty projekt
         </a>
       </header>
     </div>
