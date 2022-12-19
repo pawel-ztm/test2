@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         czy wszystko jest ok!
+         Czy wszystko jest ok!
         </a>
       </header>
     </div>
