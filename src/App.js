@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Przykładowy tekst
+         Zmiana tekstu na stronie
         </a>
       </header>
     </div>
